@@ -2,8 +2,7 @@
 [![Coverage Status](https://codecov.io/gh/ucfopen/quiz-extensions/branch/master/graph/badge.svg?token=7MfeVsKdxc)](https://codecov.io/gh/ucfopen/quiz-extensions)
 [![Join UCF Open Slack Discussions](https://badgen.net/badge/icon/ucfopen?icon=slack&label=slack&color=pink)](https://dl.ucf.edu/join-ucfopen)
 
-A self-service LTI for faculty to easily extend time for multiple users for
-all quizzes at once.
+quiz-extensions is a self-service LTI tool designed for faculty to easily extend time for multiple users on quizzes. It provides a user-friendly interface to streamline the process of granting time extensions for quizzes. By installing and configuring the project, faculty members can efficiently manage and extend quiz deadlines for multiple users simultaneously. The project is designed to simplify administrative tasks related to quiz management in an educational setting.
 
 # Table of Contents
 
